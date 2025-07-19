@@ -23,7 +23,7 @@ This digital expense tracker allows users to manage their finances by recording 
 ## 🖼️ Screenshots
 
 ![Expense Tracker Screenshot](images/Homepage.png)
-![Expense Tracker Screenshot](images/Added Expense.png)
+![Expense Tracker Screenshot](images/Added_Expense.png)
 
 
 ---
